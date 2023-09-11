@@ -15,7 +15,7 @@ global.devs = '923184070915';
 global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
 module.exports = {
-  sessionName:  process.env.SESSION_ID ||  " ",  XLICON-MD;;;TriggersJensen, 
+  sessionName:  process.env.SESSION_ID ||  "XLICON-MD;;;RejectedGoodbye ",  XLICON-MD;;;TriggersJensen, 
   author:  process.env.PACK_AUTHER ||  'XLICON BOT',
   packname:  process.env.PACK_NAME || 'MADE BY SALMAN AHMAD',
    
